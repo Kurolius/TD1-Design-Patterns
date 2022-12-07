@@ -18,3 +18,5 @@
 ![image](https://user-images.githubusercontent.com/84138772/206246624-10be0da2-708e-4cf8-b4ed-5a8de897e348.png)
 
 ### 2 et 3 - Pour l'implémentation Java de ce Framework et l'application qui utilise ce Framework vous trouverez le code dans le repo :
+#### Structure du projet
+![image](https://user-images.githubusercontent.com/84138772/206260149-10fba4eb-de79-4c26-af00-98aece164952.png)
